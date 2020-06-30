@@ -12,3 +12,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 > I’ve always been more interested
 > in the future than in the past.
+
+<img src="https://filmdaily.co/wp-content/uploads/2019/11/lede-7.jpeg"/>
